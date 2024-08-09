@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "871430631206",
+    "firebase_url": "https://chat-722be-default-rtdb.firebaseio.com",
+    "project_id": "chat-722be",
+    "storage_bucket": "chat-722be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871430631206:android:0ef92b052fb45f7c821be7",
+        "android_client_info": {
+          "package_name": "com.example.formulario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKgSWq5KD4cto3eAJ0W07j5tQ0-pxnhpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
